@@ -1,0 +1,26 @@
+{
+  "name": "challenge-18-social-network-api",
+  "version": "1.0.0",
+  "description": "This is the backend for a social media application.",
+  "main": "server.js",
+  "dependencies": {
+    "express": "^4.17.1",
+    "moment": "^2.29.1",
+    "mongoose": "^5.10.9"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jwade1327/challenge-18-social-network-api.git"
+  },
+  "author": "Jessica Wade",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jwade1327/challenge-18-social-network-api/issues"
+  },
+  "homepage": "https://github.com/jwade1327/challenge-18-social-network-api#readme"
+}
