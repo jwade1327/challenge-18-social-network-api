@@ -13,4 +13,4 @@ This is the backend portion of the application. You need to use Insomnia Core to
 These videos will show you the api routes using Insomnia Core.
 
 ## Questions
-This project was made by Jessica and can be reached at jwade1327@gmail.com or visit my [Github](https://github.com/jwade1327).
+This project was made by Jessica and can be reached via [email](mailto:jwade1327@gmail.com) or visit my [Github](https://github.com/jwade1327).
